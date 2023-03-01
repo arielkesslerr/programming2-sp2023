@@ -1,0 +1,28 @@
+body {
+	background-color: palegreen;
+}
+h1 {
+	font-size: 160%;
+	font-family: unset ;
+	text-align: center;
+}
+
+h2{
+font-size: 160%;
+font-family: unset;
+}
+
+h3{
+	font-size: 160%;
+	font-family: unset;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p {
+	font-size: 200%;
+}

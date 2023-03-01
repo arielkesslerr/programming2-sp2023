@@ -28,3 +28,16 @@
 	background-color: lightgreen;
 	font-size: 30px;
 }
+
+h1, h2, h3{
+	color: hotpink;
+	background-color: black;
+}
+
+h2{
+	background-color: honeydew;
+}
+
+h1{
+	font-family: cursive;
+}
