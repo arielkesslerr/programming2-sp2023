@@ -1,0 +1,30 @@
+.class-1{
+	background-color: lightpink;
+	font-size: 20px;
+	font-family: verdana, "DejaVu Sans, sans-serif;";
+}
+
+.class-2{
+	background-color: lightpink;
+	font-size: 30px;
+	font-family: verdana, "DejaVu Sans, sans-serif;";
+} 
+
+.class-3{
+	background-color: lightpink;
+	font-size: 20px;
+	font-family: verdana, "DejaVu Sans, sans-serif;";
+}
+
+#Num2{
+	color: blue;
+	font-family: verdana, "DejaVu Sans, sans-serif;";
+	font-size: 40px;
+}
+
+#Num4{
+	font-weight: bold;
+	font-family: verdana, "DejaVu Sans, sans-serif;";
+	background-color: lightgreen;
+	font-size: 30px;
+}
