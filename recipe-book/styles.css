@@ -1,0 +1,73 @@
+.introduction{
+	color: white;
+	font-family: monospace;
+	font-size: 20px;
+	height: 220px;
+  	width: 1000px;
+  	background-color: hotpink;
+  	text-align: center;
+  	margin-left: auto;
+  	margin-right: auto;
+} 
+
+body{
+	background-color: black;
+}
+
+.header{
+	color: white;
+	font-weight: bold;
+	font-family: monospace;
+	font-size: 45px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+.unordered-list-styling{
+	color: white;
+	font-family: monospace;
+	font-size: 20px;
+	width: 500px;
+  	padding: 40px;
+  	border: 8px solid hotpink;
+  	text-align: center;
+  	margin: auto;
+} 
+
+.ordered-list-styling{
+	color: white;
+	font-family: monospace;
+	font-size: 20px;
+  	width: 500px;
+  	padding: 40px;
+  	border: 8px solid hotpink;
+  	text-align: center;
+  	margin: auto;
+  	display: block;
+}
+
+
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}  
+
+.steps{
+	width: 500px;
+  	padding: 40px;
+  	border: 8px solid hotpink;
+  	text-align: center;
+  	margin: auto;
+  	display: block;
+}
+
+
+a:visited {
+    color: white;
+}
+
+
+
