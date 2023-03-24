@@ -1,0 +1,51 @@
+body {
+  background-color: lightpink;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.cat-image {
+  width: 200px;
+  margin: 10px;
+  border-width: 8px;
+  border-style: solid ;
+  border-color: whitesmoke;
+}
+
+.header{
+  text-align: center;
+  font-size: 50px;
+  text-decoration: underline;
+  color: white;
+  font-family: fantasy;
+}
+
+
+.navbar-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family:fantasy;
+}
+
+li a:hover {
+  background-color: lightpink;
+}

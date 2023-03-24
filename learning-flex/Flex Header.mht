@@ -1,0 +1,60 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///Users/arielkessler/Downloads/activity2%20(2).html
+Subject: Flex Header
+Date: Fri, 24 Mar 2023 18:54:53 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--oOGkuysiV91R64cYA5yFejE0rvlduiOClbuly5055b----"
+
+
+------MultipartBoundary--oOGkuysiV91R64cYA5yFejE0rvlduiOClbuly5055b----
+Content-Type: text/html
+Content-ID: <frame-05622CC92B37921452FB4897FC0EFD99@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///Users/arielkessler/Downloads/activity2%20(2).html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Flex Header</title>
+    <link rel=3D"stylesheet" href=3D"file:///Users/arielkessler/Downloads/a=
+ctivity2.css">
+  </head>
+  <body>
+    <div class=3D"header">
+      <div class=3D"left-links">
+        <ul>
+          <li><a href=3D"file:///Users/arielkessler/Downloads/activity2%20(=
+2).html#">ONE</a></li>
+          <li><a href=3D"file:///Users/arielkessler/Downloads/activity2%20(=
+2).html#">TWO</a></li>
+          <li><a href=3D"file:///Users/arielkessler/Downloads/activity2%20(=
+2).html#">THREE</a></li>
+        </ul>
+      </div>
+      <div class=3D"logo">LOGO</div>
+      <div class=3D"right-links">
+        <ul>
+          <li><a href=3D"file:///Users/arielkessler/Downloads/activity2%20(=
+2).html#">FOUR</a></li>
+          <li><a href=3D"file:///Users/arielkessler/Downloads/activity2%20(=
+2).html#">FIVE</a></li>
+          <li><a href=3D"file:///Users/arielkessler/Downloads/activity2%20(=
+2).html#">SIX</a></li>
+        </ul>
+      </div>
+    </div>
+ =20
+</body></html>
+------MultipartBoundary--oOGkuysiV91R64cYA5yFejE0rvlduiOClbuly5055b----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///Users/arielkessler/Downloads/activity2.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--oOGkuysiV91R64cYA5yFejE0rvlduiOClbuly5055b------
