@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>BLACKJACK GAME!</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<h1 id = "title">The Ultimate Blackjack Game...</h1>
+<div>
+	<button id = "instructionsbtn" onclick = "openInstructions()">Instructions</button>
+	<button id = "start" onclick="startGame()">Start Game</button>
+</div>
+<div id="myModal" class="modal">
+ <div class="modal-content">
+   <span id="close" onclick="closeInstructions()">&times;</span>
+   <h2 id = "instructions">INSTRUCTIONS...</h2>
+   <ol id = "list">
+   		<li> The dealer deals two cards to each player and two cards to themselves. One of the dealer's cards is face up and the other is face down.</li>
+   		<p></p>
+        <li> The objective of the game is to get a hand value of 21 or as close to 21 as possible without going over. Face cards (jacks, queens, and kings) are worth 10 points, Aces can be worth 1 or 11 points, and all other cards are worth their face value.</li>
+        <p></p>
+       <li> After the initial deal, players have the option to "hit" (receive another card) or "stand" (keep their current hand).</li>
+       <p></p>
+         <li> If a player's hand exceeds 21, they "bust" and lose their bet.
+         Once all players have taken their turns, the dealer reveals their face down card. If the dealer's hand is less than 17, they must hit until they reach at least 17. If the dealer's hand exceeds 21, they bust and all remaining players win.</li>
+         <p></p>
+        <li> If the dealer's hand is higher than the player's hand without exceeding 21, the player loses their bet. If the player's hand is higher than the dealer's hand without exceeding 21, the player wins. If both the player and dealer have the same hand value, it is a "push" and the player's bet is returned.</li>
+
+   </ol>
+   <img src="https://cdn.britannica.com/93/124393-004-B49FE2AE/Blackjack.jpg">
+    </div>
+
+</div>
+<p id = "question">Do you want to draw a new card?</p>
+<div class="row">
+	<button id = "stay" onclick = "stay()" disabled = "true" >Stay</button>
+	<button id = "hit" onclick="hit()" disabled = "true">hit</button>
+	<button id = "reset" onclick = "startGame()">Reset</button>
+</div>
+<p id= "dealer-cards">Dealer Cards:</p>
+<p id = "user-cards" >User Cards:</p>
+<p id = "userSum">Sum:</p>
+<div>
+  
+</div>
+<body>
+<script type="text/javascript" src = "index.js"></script>
+</body>
+</html>

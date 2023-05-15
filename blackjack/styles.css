@@ -1,0 +1,118 @@
+body{
+	background-color: seagreen;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#stay ,#hit, #reset{
+	background-color: springgreen;
+	width: 100px;
+	color:  grey;
+	border: none;
+	border: solid white;
+	font-family: fantasy;
+
+}
+
+#question{
+	text-align: center;
+	color:  white;
+	font-family: fantasy;
+	font-size: 30px;
+
+
+}
+
+#title{
+	text-align: center;
+	color:  white;
+	font-family: fantasy;
+	text-decoration: underline;
+
+} 
+
+#instructionsbtn{
+	background-color: springgreen;
+	width: 100px;
+	color:  grey;
+	border: solid white;
+	font-family: fantasy;
+}
+
+#start{
+	background-color: springgreen;
+	width: 100px;
+	color:  grey;
+	border: solid white;
+	font-family: fantasy;
+}
+
+.row {
+	display: flex;
+}
+
+.modal {
+  display: none;
+  position: fixed; 
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  background-color: rgba(0,0,0,0.4); 
+}
+
+.modal-content {
+  background-color: white;
+  color: black;
+  margin: 15% auto; 
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+
+#close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#close:hover,
+#close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#instructions
+{
+	text-align: center;
+	font-family: fantasy;
+	color: seagreen;
+	text-decoration: underline;
+
+}
+
+#list{
+	font-family: fantasy;
+}
+
+#dealer-cards #user-cards{
+	display: flex;
+	flex direction: row;
+}
+
+#dealer-cards, #user-cards, #userSum{
+	ext-align: center;
+	color:  white;
+	font-family: fantasy;
+	font-size: 30px;
+}
+
