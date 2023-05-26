@@ -360,7 +360,7 @@ span {
 	font-family: monospace;
 	font-size: 20px;
 	position: relative;
-	bottom: 450px;
+	bottom: 500px;
 	left: 650px;
 }
 
@@ -451,7 +451,7 @@ span {
 	font-size: 30px;
 	font-weight: bold;
 	position: relative;
-	bottom:  450px;
+	bottom:  500px;
 	margin-left: 800px;
 
 }
@@ -491,6 +491,22 @@ span {
 	font-weight: bold;
 	position: relative;
 	text-decoration: underline;
-	bottom: 1500px;
+	bottom: 2000px;
 
+}
+
+.video{
+	position: relative;
+	bottom: 2100px;
+	left: 570px;
+	
+}
+
+#overview8{
+		display: flex;
+	color: white;
+	padding: 8px;
+	margin-right: 800px;
+	border-style: dotted;
+	border-width: 5px;
 }
