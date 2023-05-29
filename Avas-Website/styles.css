@@ -15,16 +15,28 @@ body{
 	color: white;
 	padding: 8px;
 	margin-right: 800px;
-	border-style: solid;
+	border-style: dotted;
 	border-width: 5px;
+	font-family: monospace;
+	font-size: 17px;
+	margin-left: 300px;
+	position: relative;
+	left: 230px;
+
 
 } 
+
+.ov{
+	position: relative;
+	right: 45px;
+}
 
 h2{
 	color: hotpink;
 	font-family: bodoni;
 	font-size: 30px;
 	text-align: center;
+	text-decoration: underline;
 	
 	
 	
@@ -495,6 +507,17 @@ span {
 
 }
 
+.fyi3{
+	color: hotpink;
+	font-family: bodoni;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	text-decoration: underline;
+	top:  80px;
+}
+
 .video{
 	position: relative;
 	bottom: 2100px;
@@ -503,20 +526,180 @@ span {
 }
 
 #overview8{
-		display: flex;
+	display: flex;
 	color: white;
 	padding: 8px;
-	margin-right: 800px;
+	margin-right: 1300px;
 	border-style: dotted;
 	border-width: 5px;
+	position: relative;
+	top: 650px;
+	font-family: monospace ;
 }
 
 .avaimg{
-		display: flex;
+	display: flex;
 	justify-content: space-around;
+	height:  600px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: whitesmoke;
+	position: relative;
+	bottom: 150px;
+	left: 30px;
+}
+
+.spaimg{
 	height:  300px;
 	border-style: solid;
 	border-width: 5px;
 	border-color: whitesmoke;
+	position: relative;
+	bottom:  600px;
+	left: 500px;
+
 }
+
+.service-img{
+	height:  300px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: whitesmoke;
+	position: relative;
+	bottom:  600px;
+	left: 600px;
+}
+
+.location{
+	color: white;
+	border-style: dotted;
+	border-width: 5px;
+	display: inline-block;
+	font-family: monospace;
+	font-size: 20px;
+	position: relative;
+	bottom:  455px;
+	left: 550px;
+	margin-right: 1200px;
+}
+
+.service{ 
+	color: white;
+	border-style: dotted;
+	border-width: 5px;
+	display: inline-block;
+	font-family: monospace;
+	font-size: 20px;
+	position: relative;
+	bottom:  620px;
+	left: -20px;
+	margin-left: 1300px;
+ }
+
+#book{
+	color: hotpink;
+	font-family: bodoni;
+	font-size: 30px;
+	font-weight: bold;
+	position: relative;
+	bottom:  400px;
+	left: 700px;
+}
+
+.calendly-inline-widget{
+	position: relative;
+	bottom:  250px;
+}
+
+
+.home-img{
+	display: flex;
+	flex-direction: column;
+	width: 500px;
+	height: 400px;
+	border: solid;
+	border-width: 5px;
+	border-color: white;
+	position: relative;
+	bottom: 300px;
+}
+
+.home-img2{
+	display: flex;
+	flex-direction: column;
+	width: 500px;
+	height: 400px;
+	border: solid;
+	border-width: 5px;
+	border-color: white;
+	position: relative;
+	bottom: 700px;
+	left:  1250px;
+
+}
+
+#home-img3{
+	position: relative;
+	bottom: 750px;
+	left:  150px;
+	border: solid;
+	border-width: 5px;
+	border-color: white;
+	height: 300px;
+	width:  500px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.title5{
+	color: hotpink;
+	font-family: bodoni;
+	font-size: 30px;
+	font-weight: bold;
+	position: relative;
+	bottom:  800px;
+	left:  650px;
+}
+
+.address{
+	color:  white;
+	font-size:  20px;
+	font-weight: bold;
+	font-family: bodoni;
+	position: relative;
+	bottom: 1150px;
+	left:  700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
