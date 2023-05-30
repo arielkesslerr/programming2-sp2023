@@ -516,7 +516,27 @@ span {
 	position: relative;
 	text-decoration: underline;
 	top:  80px;
+
 }
+
+
+.fyi4{
+	color: hotpink;
+	font-family: bodoni;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	text-decoration: underline;
+	bottom:  300px;
+
+
+}
+
+
+
+
+
 
 .video{
 	position: relative;
@@ -713,6 +733,8 @@ span {
 	margin-left: 300px;
 	right:  200px;
 }
+
+
 
 
 
