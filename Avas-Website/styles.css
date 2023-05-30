@@ -648,21 +648,7 @@ span {
 	height: 300px;
 	width:  500px;
 
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
 
 .title5{
 	color: hotpink;
@@ -684,8 +670,49 @@ span {
 	left:  700px;
 }
 
+.ad{
+	color: hotpink;
+	font-family: bodoni;
+	font-size: 30px;
+	position: relative;
+	font-weight: bold;
+	bottom: 700px;
+	text-align: center;
+}
 
+.ad-info{
+	color: white;
+	border-style: dotted;
+	border-width: 5px;
+	font-size: 18px;
+	position: relative;
+	font-family: monospace;
+	bottom: 650px;
+	margin-left: 300px;
+	right: 200px;
+}
 
+.philosophy{
+	color: hotpink;
+	font-family: bodoni;
+	font-size: 30px;
+	position: relative;
+	font-weight: bold;
+	text-align: center;
+	bottom:  550px;
+}
+
+.approaches{
+	color: white;
+	border-style: dotted;
+	border-width: 5px;
+	font-size: 18px;
+	position: relative;
+	font-family: monospace;
+	bottom: 500px;
+	margin-left: 300px;
+	right:  200px;
+}
 
 
 
